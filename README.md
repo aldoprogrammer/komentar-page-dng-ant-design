@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can make a comment section page, using ant-design. This one is similiar to taildiwnd css. So it will save your timr.
+You can make a comment section page, using ant-design. This one is similiar to taildiwnd css. So it will save your time, and easier to work on.
 
 ## Available Scripts
 
